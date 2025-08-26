@@ -6,8 +6,8 @@ const addTransaction =document.querySelector('.btn')
 addTransaction.addEventListener('click', function(){
     // prompt('doing great')    
     const li = document.createElement('li')
-    li.className = 'createdElement'
-    li.textContent= `new ${text.value} ${amount.value} `
+    li.classList.add = 'createdElement'
+    li.textContent= `${text.value} ${amount.value} `
     showExpence.appendChild(li)
     
 })
