@@ -70,3 +70,8 @@ h1, h2, h3, h4 {
   border-radius: 5px;
   cursor: pointer;
 }
+.createdElement{
+  padding: 20px;
+  margin-top: 7px;
+  background: lightseagreen;
+}
