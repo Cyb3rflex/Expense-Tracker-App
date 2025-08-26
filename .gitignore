@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Node (in case someone later adds a package.json)
+node_modules/
+
+# Logs
+*.log
+
+# Build/Dist folders (future-proofing)
+dist/
+build/
