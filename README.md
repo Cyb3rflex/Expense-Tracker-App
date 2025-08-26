@@ -112,11 +112,13 @@ Final project will be deployed on Netlify/Vercel.
 
 🤝 Contributors
 
-Abdulmuheez Qazeem (@Cyb3rflex) (Team Lead)
+Abdulmuheez(@Cyb3rflex) (Team Lead)
 
-[Teammate 1]
+Sylvester(@Ayosylvester)
 
-[Teammate 2]
+AbdulAzeeze(@hajjisco)
+
+Williams(@EliteGhohunmi)
 
 ---
 
