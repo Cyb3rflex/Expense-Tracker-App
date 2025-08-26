@@ -51,7 +51,7 @@ cd expense-tracker
 ```
 2. Open in Browser
 
-Just open in browser with the live link.
+Just open in browser with index.html
 
 ---
 
