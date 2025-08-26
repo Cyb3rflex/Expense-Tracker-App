@@ -3,7 +3,6 @@
 Thumbs.db
 
 # IDE/editor files
-.vscode/
 .idea/
 
 # Node (in case someone later adds a package.json)
@@ -15,3 +14,7 @@ node_modules/
 # Build/Dist folders (future-proofing)
 dist/
 build/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
